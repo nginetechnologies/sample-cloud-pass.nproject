@@ -256,409 +256,347 @@
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "eff65ae6-9b6a-6aae-6502-7ce8dd672061",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    6.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Trap Closed"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "eff65ae6-9b6a-6aae-6502-7ce8dd672061"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "8e954bba-ff84-d23a-0780-b4af99eff8e7"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "bfc5ff88-0138-c892-5798-c2d13072f5ee",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    8.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Trap Open"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bfc5ff88-0138-c892-5798-c2d13072f5ee"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "4be14041-7747-3071-2e39-1b202452db2a"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "0e61df91-9e41-905b-586f-7100134e20c9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.0,
-                    5.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Bomb"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0e61df91-9e41-905b-586f-7100134e20c9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "ae40df24-0b1d-5d46-d45e-48ce7b411368"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "00c594f5-19a9-54eb-ef1a-5e2dc346ff69",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.7149,
-                    6.2301,
-                    7.7621
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cloud 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "00c594f5-19a9-54eb-ef1a-5e2dc346ff69"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "4685e03b-9985-def0-e651-721af01f4461"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    9.0,
+                    2.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "9d195d70-4a25-6fa0-f6f4-1e0b9f476542",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.6907,
-                    4.3045,
-                    6.3811
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cloud 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9d195d70-4a25-6fa0-f6f4-1e0b9f476542"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "9029b44f-bc83-942b-ab98-a0f11cb0ab61"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.0,
+                    9.0,
+                    5.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "41343015-1b4d-133c-bfb2-654432c21fa9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.9198,
-                    10.7412,
-                    4.3818
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cloud 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "41343015-1b4d-133c-bfb2-654432c21fa9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "43b10aea-3bf0-5686-7bee-9cc7fd427723"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    24.0,
+                    6.0,
+                    3.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "1d793fe4-6936-2dc2-90af-33ec5f3434a3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -4.3038,
-                    4.0581,
-                    5.2003
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cloud 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1d793fe4-6936-2dc2-90af-33ec5f3434a3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "8768bded-80c2-bf51-f331-3753f34ec51e"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.0,
+                    4.0,
+                    5.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "b6ab2655-3981-3483-a4a5-f555e0e0a90b",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.2906,
-                    4.3144,
-                    4.0795
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Cloud 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b6ab2655-3981-3483-a4a5-f555e0e0a90b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "5c8a5ad8-0e0d-2da2-5700-ab614e3617e5"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    8.0,
+                    4.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "0d026916-99c5-8f97-d023-6315eb6893d3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    5.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Coin"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0d026916-99c5-8f97-d023-6315eb6893d3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.5641,
+                    -0.0,
+                    2.5574
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "4bc18bb3-6faa-526b-a9be-59d1cff0963e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.2711,
-                    0.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4bc18bb3-6faa-526b-a9be-59d1cff0963e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "1cbba1c6-6750-df35-4037-49887b23d28b"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0398,
+                    -0.0,
+                    1.5
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "1c1d0ae7-517d-ec17-e130-3f58efbe41a3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.5802,
-                    -1.1483,
-                    0.4013
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Fence"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1c1d0ae7-517d-ec17-e130-3f58efbe41a3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "403722fc-02bd-bae3-4375-1f860945527d"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.3201,
+                    0.592,
+                    0.4188
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "3aacf71e-3b53-aa72-2cda-2abf4e12b397",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    24.0,
-                    -1.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Flag"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3aacf71e-3b53-aa72-2cda-2abf4e12b397"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "67d304fc-d899-e313-9e51-fc2bf4bdc781"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    2.0
+                ],
+                "scale": [
+                    1.5716
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "2b5d0bcd-6d3c-b6be-7b50-ada5d8ba8840",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.0,
-                    0.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2b5d0bcd-6d3c-b6be-7b50-ada5d8ba8840"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "5bc7cb80-79d7-a270-0974-e8fccfbfda86"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    21.4364,
+                    0.55,
+                    0.3797
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "e12a6786-7a5a-cf38-c0e0-174b62345eb3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    4.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e12a6786-7a5a-cf38-c0e0-174b62345eb3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "94c9160d-9e45-2164-0c95-e80b84afdb4a"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.2245,
+                    0.5035,
+                    0.4088
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "9742eb44-84f6-5982-5b01-ec8c76ae256d",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.0,
-                    1.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9742eb44-84f6-5982-5b01-ec8c76ae256d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "9072ac05-5729-6fa4-5e27-acb5f10ed301"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.5403,
+                    0.3967,
+                    0.4221
+                ],
+                "scale": [
+                    1.5737
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "046be47d-ce9f-e577-b645-0fa5d3568dfa",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    11.8162,
-                    -2.0,
-                    3.4
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Heart Full"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "046be47d-ce9f-e577-b645-0fa5d3568dfa"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "7029e167-46f1-157b-068b-af0c007e4b0c"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "ccf04298-74ee-04ec-b76f-ef161a339d86",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.0,
-                    2.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Heart Half"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ccf04298-74ee-04ec-b76f-ef161a339d86"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "825d342d-0954-fdee-e705-b4e3a092ae54"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
@@ -668,418 +606,2083 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Key"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7a43c97c-5482-0044-ffcb-72c1f49d9339"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "213261d9-b753-6805-e242-e3b864b332ba"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "8bffb11f-56c0-1ac5-c3fe-4045e90667ea",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    3.3361,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ladder Long"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8bffb11f-56c0-1ac5-c3fe-4045e90667ea"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "1ce49c65-806a-9abe-c4c0-818c71e85af4"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "cc147d03-af93-96e2-7a2f-8f6735329778",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.0,
-                    6.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ladder Medium"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cc147d03-af93-96e2-7a2f-8f6735329778"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "eb2bb12a-89a0-06e8-c2dd-a5ab0ca85268"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "6986b63c-9f33-66b5-e9a7-0e1743ef3a47",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    6.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ladder Short"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6986b63c-9f33-66b5-e9a7-0e1743ef3a47"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "607dda60-2bea-7db3-d56e-4b916239a060"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "c661322a-c6c2-2f26-86f0-c4554d95840f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.0,
-                    1.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lever"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c661322a-c6c2-2f26-86f0-c4554d95840f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "adff8646-b4c4-b256-6434-76f09740be86"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "f1313429-dddd-e272-2776-c72ef019c282",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    1.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lever Base"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f1313429-dddd-e272-2776-c72ef019c282"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "51dca16e-d45c-99cf-10e8-0809e708ff90"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "83f4f427-e976-8840-a08c-fdaa08770e07",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.0,
-                    -2.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Moving Platform"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "83f4f427-e976-8840-a08c-fdaa08770e07"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "bd6f0ee6-f39c-44a0-e785-d649c18183e7"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    9.7969,
+                    -0.0,
+                    -0.1218
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "d1334d07-5d04-ea2a-1230-eff5f479a500",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -3.0,
-                    -2.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Moving Platform Long"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d1334d07-5d04-ea2a-1230-eff5f479a500"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "32cd6d61-3c8d-930d-da6e-af845c10dfc3"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    28.5319,
+                    -0.0,
+                    -0.7825
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "446d10da-df8f-5d9e-12a3-6d0182b8011b",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.0,
-                    6.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Mushroom"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "446d10da-df8f-5d9e-12a3-6d0182b8011b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "435772fc-5ba0-af09-2c7e-9ffb098ec6bb"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    25.1566,
+                    0.6156,
+                    0.3603
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "4f2edf96-3151-247d-37fc-cb95c63f38c6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    18.0,
-                    -2.0,
-                    0.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Pipe"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4f2edf96-3151-247d-37fc-cb95c63f38c6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "b3bdb6c8-8e59-d3aa-5836-cdee7a1186ad"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.4664,
+                    -0.0,
+                    0.2072
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "4d5cb4b8-6d39-92f8-d650-5c13cf1c23eb",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    -2.0,
-                    -2.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ground Bottom Left"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4d5cb4b8-6d39-92f8-d650-5c13cf1c23eb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "0d07d868-c5e4-f4ef-9355-55271640926b"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.0,
+                    -0.0,
+                    -2.0
+                ]
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.0,
-                    -2.0,
-                    -2.0
-                ]
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ground Bottom Mid"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
                 }
             ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.9999,
+                    -0.0,
+                    -2.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d731c3f9-248f-bf4f-20b4-cacb45041199",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f8570799-f2be-6543-b2de-b2d0a931bef8"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.0,
+                    -0.0,
+                    -2.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ee530ecb-abd2-1a80-9118-7eeca0d5b217",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.0,
+                    -0.0,
+                    -1.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.9999,
+                    -0.0,
+                    -1.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c6533747-6833-1194-a41b-4432aa2cd6f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.0,
+                    -0.0,
+                    -1.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "47971fd9-13bc-9e1b-0a74-951a7bdc9199",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.0,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.9999,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8f9301bd-98b8-ea9c-f60a-1493c49824b6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.0,
+                    -0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7461b564-f5f1-23d9-6c82-1d14796c6fdb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aafeb527-b3d3-3089-0786-b02d79b6465f"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.2544,
+                    0.3735,
+                    0.4487
+                ],
+                "scale": [
+                    0.5436
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8e1c97e-e055-5537-5700-bd7573b7ea3a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2e509fcf-6938-6d18-c7b0-912f34bf82f4"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.2814,
+                    0.317,
+                    0.3781
+                ],
+                "scale": [
+                    0.8465
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9885add3-0a5d-9a58-212b-2823783d7cbd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d29d71a0-7360-5d17-920c-091db3534295"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.8822,
+                    0.4054,
+                    0.4645
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d20fc78e-7f22-05da-2db8-73a4e81dc9d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c511010f-ecf2-ee77-afeb-318b9c674b37"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.6044,
+                    0.4346,
+                    0.2848
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d69f5b66-cc39-f92a-e306-0028daa9e718",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rope Long"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "660bf907-54c7-2c46-04c7-6ca582ee9624"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.3675,
+                    -0.0,
+                    -0.1218
+                ],
+                "rotation": [
+                    0.0,
+                    -89.9802,
+                    0.0
+                ],
+                "scale": [
+                    1.8474
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "894b292e-8413-4811-2093-cd875fac82eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rope Short"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "26eeb2e2-260b-9e91-8e90-11cd66b9ac0c"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "61a11a9e-7d32-0f4d-3026-35dc152599f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3e556478-9e1c-3bc8-1db0-a827e5aa6a71"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a08342e4-6f94-701e-e7d5-b57574b65f9f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Left Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0eba0001-ef12-1e6b-39ae-230c3e58daa8"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.4565,
+                    0.5701,
+                    0.3002
+                ],
+                "scale": [
+                    0.665
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f7e23c41-bab5-8640-51fe-520efd72b8df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sign Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4dd3273e-7f47-dd71-a368-c8c0075700fb"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0,
+                    0.4438,
+                    0.4209
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c3868624-7160-0f33-e9aa-a51f0d0817cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Group"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a1554442-b132-2d54-f852-7eff8beaadd6"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.0,
+                    -0.0,
+                    -1.6149
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "320afc64-dd59-7ee5-f496-1da6b363e735",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87e332b6-35e2-3e74-c436-da0e286790db"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69b45e4b-c7dd-090c-9070-9a1652769737",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Platform"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd42f9b2-ec52-8ec4-76bc-17ca818520d6"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -13.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ecc6bd55-9fe1-0052-be64-17f97edec013",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Star"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1ef5bae1-d39b-626b-0fc8-ed280891110e"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.0,
+                    -0.0,
+                    4.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "307ef253-12dc-e7ab-5075-1b01f7f85220",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c39e1d4a-ff9c-cdf2-360a-46d3e55671fd"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    25.0,
+                    1.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "528f6164-783c-1769-78c2-c0158872584f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "672118e8-115b-6e1c-5d71-622871b15020"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0,
+                    1.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20bd13fb-18f0-a0c2-8b21-9f40c679ac85",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "60cd1e99-7963-892a-6574-5e9eace41c96"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.4773,
+                    1.3083,
+                    2.3108
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d824996a-7c23-7d21-eb03-d1766a0d060f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b695435b-d16e-2fd1-c47e-ee6af9debdb3"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    20.0,
+                    1.0,
+                    0.4399
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Yellow Box"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
+            },
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.0,
+                    -0.0,
+                    1.5399
+                ]
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eace808d-801f-da7e-e00b-c7ea5825a8e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d731c3f9-248f-bf4f-20b4-cacb45041199",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    5.0,
-                    -2.0,
-                    -2.0
-                ]
-            },
+            "instanceGuid": "55311ccd-ee6f-f0f4-aafe-face33d394e0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Right"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d731c3f9-248f-bf4f-20b4-cacb45041199"
+                    "name": "Ground Bottom Mid.002"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "55471d55-4ea9-37e0-2fdf-8dc091545beb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8032a1b-2ed4-268e-ae04-640c5a1b8295",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d038ad8-d05b-107a-a71f-d7bd100b8f69",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "21c0d0fd-87be-f4ba-ce1f-93e600964531",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d686a72-f251-7eab-9e63-0ee928d09202",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1f823aca-640a-c053-233f-1b0962a8639b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ed5cdd27-b3a8-c8fc-f283-ebc239af9db7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7fb432fc-ebc5-7447-2fa7-a8e0e7d46312",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62f0609e-48b8-4d1c-8405-9f3dba000624",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "782867b3-62ce-e8cf-1649-54ce85bd290f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d8c5fbb-e0ac-dc51-48b5-17cc8e71521a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Left.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d07d868-c5e4-f4ef-9355-55271640926b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9c7ed48d-2794-e7ee-fbfb-043c0888627b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Left.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f045facc-5862-caac-63ef-7efe54dbf7ed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Left.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "169e6819-64d8-0a4f-91b0-2bf47309e54c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Right.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ec1a3763-49d5-c795-e11e-575da0e5aa81",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Right.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e2ff47b6-d422-0ae1-337e-abdfd2684d3a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4900a5ac-309c-346f-57f6-e0b7e78ea39a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8bdf605f-184b-1297-f616-e829e0963be3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Left.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b038438c-1601-ce82-8f40-470e14de9a22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Left.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "11e59fd0-7d1c-1647-7c71-6caa3df6a771",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Right.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    26.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "f8570799-f2be-6543-b2de-b2d0a931bef8"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ee530ecb-abd2-1a80-9118-7eeca0d5b217",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
+            "instanceGuid": "b4d57a23-bbdd-819c-2e7f-2e7e971ff363",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Left"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ee530ecb-abd2-1a80-9118-7eeca0d5b217"
+                    "name": "Ground Center Right.002"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    4.0,
-                    -2.0,
+                    26.0,
+                    -0.0,
                     -1.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c6533747-6833-1194-a41b-4432aa2cd6f5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    5.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Right"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c6533747-6833-1194-a41b-4432aa2cd6f5"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "47971fd9-13bc-9e1b-0a74-951a7bdc9199",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    -2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "13231d40-26cc-036a-90df-c0febc13b799",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Left"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "47971fd9-13bc-9e1b-0a74-951a7bdc9199"
+                    "name": "Ground Top Right.002"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    26.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c0151c7-1c0d-ef2f-a3cc-089872648d4b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    17.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c1250d7-863a-c571-d73e-b1376881e9b4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    18.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2080f42b-eff0-8c4e-3742-f4339840c569",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "67b3bef8-f5f7-c096-ce65-ff9c45be3baa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1f74a7b5-236f-a9b1-0b3c-4deaa6853fff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "90481a85-9af4-ba67-1f06-ca6113b214d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    20.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5112af76-d81c-0947-fd5e-a6e21473d947",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    20.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e025831-c268-7ba1-ede9-3bc141be9711",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    20.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c9186dbf-58fe-5723-defc-9c864c597096",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.011"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    21.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e5610ff2-9bb8-b628-68e1-dcbcd878153f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    21.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "059fa357-c24f-9e5a-5515-bd0a682608ee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    21.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d48e5c4-2c4e-8a0b-ca35-0610f91cba7c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.012"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bfa9a81f-8bba-fcc9-e52e-347f4dfd92a9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "073e4640-c819-1dca-e533-50f7380a496b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a4558a25-5e59-c643-37f3-ebbe9aad4c93",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.013"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    23.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4cd8a9fc-398d-b7c9-2873-839f2a5e79fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    23.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc325971-471e-0b1e-b00b-a4a1fcf27ddc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    23.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd845a84-dbb8-c31c-56eb-800af3062f23",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.014"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    24.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b74b22da-0035-46bf-c0b0-0e0f630eee7d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    24.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5423704-e327-352f-e2ca-f9a9bfb7afd8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    24.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "10c76709-2362-0c1a-a357-d73fa3628d80",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.015"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    25.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "52b5a0a8-75dd-9c11-8c73-b3af4aef93e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.011"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    25.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9d6f10e-277e-85ba-dcb8-5ea230d967a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.011"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    25.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "62c836c0-8ce3-1110-d7b4-a64f97d992f8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Left.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d07d868-c5e4-f4ef-9355-55271640926b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e3729b2-4150-a318-57e6-32b1ba7f0b63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Left.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b1700233-ba8a-d1bc-0417-effa97aed42f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Left.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -0.0,
+                    2.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.0,
-                    -2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "2cfac127-18ed-32f0-9c72-17e90b059303",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid"
-                },
+                    "name": "Ground Center Left.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "97233cba-0c15-e977-9028-fbfc0d7cc1ef",
+            "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Left.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "11fe2458-2b4f-9e87-16c2-26f80fa2718c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.016"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    32.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ec5cddd7-8a91-929c-f308-2d15204b7c6e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.012"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    32.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d2ae0f5-2ff8-67aa-8067-1b267faae3bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.012"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    32.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0100b664-e385-0826-04d6-b85e1a6ac6e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Right.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    41.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f8570799-f2be-6543-b2de-b2d0a931bef8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43f713f0-8c38-a8d0-7922-42afc66b5dd1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Right.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    41.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7390be2c-1d1b-4628-f698-ab75e4f3f06d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Right.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    41.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e61df26-9b1c-944e-1427-f1acb752d1f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.017"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1fc6302f-7ae6-8bba-b0b0-08d42df3e0f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.013"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d972ec92-f09c-695c-e0c1-235c0b854946",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.013"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5cc2bf3c-d968-05b7-d94a-b3979588bd02",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.018"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b78ae1f0-1191-a38b-2bba-c607825dc741",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.014"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1544a94e-c14a-fc31-2ab7-7562869ed9e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.014"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "38196e3f-aa18-762a-fa3f-60c348baf9d2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.019"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8788d015-6f8b-e293-f547-b1f207d6d76b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.015"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "579ee68e-a13b-507c-d849-23884b53ad3a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.015"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1088,1236 +2691,1353 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8f9301bd-98b8-ea9c-f60a-1493c49824b6",
+            "instanceGuid": "dda5915b-e4ee-7ba4-431f-5020b4cff6a0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.016"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    5.0,
-                    -2.0,
+                    32.0,
+                    -0.0,
                     0.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Right"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8f9301bd-98b8-ea9c-f60a-1493c49824b6"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7461b564-f5f1-23d9-6c82-1d14796c6fdb",
+            "instanceGuid": "469206ef-dac4-4e74-85e9-dea3f3541096",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.017"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    2.0,
-                    4.0,
-                    0.0
+                    32.0,
+                    -0.0,
+                    1.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rock 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7461b564-f5f1-23d9-6c82-1d14796c6fdb"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "aafeb527-b3d3-3089-0786-b02d79b6465f"
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f8e1c97e-e055-5537-5700-bd7573b7ea3a",
+            "instanceGuid": "32528060-2bbe-ed03-35b9-eef38b5df054",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.020"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -1.0,
-                    4.0,
-                    0.0
+                    33.0,
+                    -0.0,
+                    -2.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rock 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f8e1c97e-e055-5537-5700-bd7573b7ea3a"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2e509fcf-6938-6d18-c7b0-912f34bf82f4"
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9885add3-0a5d-9a58-212b-2823783d7cbd",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    3.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "ffed3fbd-24d3-8df7-0e3f-6666297757ef",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rock 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9885add3-0a5d-9a58-212b-2823783d7cbd"
+                    "name": "Ground Center Mid.018"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d29d71a0-7360-5d17-920c-091db3534295"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d20fc78e-7f22-05da-2db8-73a4e81dc9d7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    2.0,
-                    3.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rock 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d20fc78e-7f22-05da-2db8-73a4e81dc9d7"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c511010f-ecf2-ee77-afeb-318b9c674b37"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d69f5b66-cc39-f92a-e306-0028daa9e718",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.0,
-                    2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rope Long"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d69f5b66-cc39-f92a-e306-0028daa9e718"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "660bf907-54c7-2c46-04c7-6ca582ee9624"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "894b292e-8413-4811-2093-cd875fac82eb",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.0,
-                    3.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Rope Short"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "894b292e-8413-4811-2093-cd875fac82eb"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "26eeb2e2-260b-9e91-8e90-11cd66b9ac0c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "61a11a9e-7d32-0f4d-3026-35dc152599f5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.0,
-                    2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Left"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "61a11a9e-7d32-0f4d-3026-35dc152599f5"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "3e556478-9e1c-3bc8-1db0-a827e5aa6a71"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a08342e4-6f94-701e-e7d5-b57574b65f9f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0,
-                    2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Left Right"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a08342e4-6f94-701e-e7d5-b57574b65f9f"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0eba0001-ef12-1e6b-39ae-230c3e58daa8"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f7e23c41-bab5-8640-51fe-520efd72b8df",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -3.0,
-                    -1.0,
-                    0.2853
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sign Right"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f7e23c41-bab5-8640-51fe-520efd72b8df"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4dd3273e-7f47-dd71-a368-c8c0075700fb"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c3868624-7160-0f33-e9aa-a51f0d0817cd",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    16.0,
-                    -2.0,
+                    33.0,
+                    -0.0,
                     -1.0
                 ]
             },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8b2cf25e-25d4-41ec-80db-09626ff871a8",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike Group"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3868624-7160-0f33-e9aa-a51f0d0817cd"
+                    "name": "Ground Top Mid.016"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    33.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2a96dba0-9909-92c2-632b-361c133f76ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.019"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    33.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "efdc4276-ee0e-0785-336a-28de97ef0507",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.020"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    33.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "79787c20-836e-2564-54f0-0fb07b8a2623",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.021"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "297c47c7-1382-91a9-6eaa-a9d79f1bd137",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.021"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a8656384-4c3b-d607-7eac-639d91b1f1e5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.017"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ac95a522-37b5-dac6-772e-e8b66bca7cd2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.022"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1aaa7aae-f46f-fd65-d931-0d0aab9c93ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.023"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1359e6ff-42a1-11f8-5b4e-96f6164de438",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.022"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    35.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1146622a-86ca-6903-be94-2a2125952a5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.024"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    35.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f51d8d02-1a93-df43-3402-56b78160c845",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.018"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    35.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5f32516-74d1-1947-b98e-641cfdbbc543",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.025"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    35.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7c3df59b-4380-36ed-32d2-2f8cc4cf8893",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.026"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    35.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6bdda17-6193-d3e6-35fe-d1e175792f2b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.023"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "02772e31-acfe-d0a7-c70b-69fc7f9dfd05",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.027"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e9309ca2-1fec-e85d-c86c-eb4a0fa21b1c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.019"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c6d49f23-036d-0191-5cc6-82832608a42a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.028"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ea2b32b-a7a1-bec3-41c8-48e231d73bad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.029"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e669de1-62d8-68ea-8c83-fa7b098134a7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.024"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36b7a0d1-f22a-4255-b217-4a76adee7ea9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.030"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aa5b376b-165f-f6ca-fe1a-0469cbecbdce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.020"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dad7e6fc-a230-e57e-0f45-8d37aee662c8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.031"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5566f4a4-76c4-dc4d-8638-6112ee843eff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.032"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8b955e2d-53bd-86c8-a2ae-8986a38ab2f8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.025"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "50e34c40-03a4-96aa-0d42-af6f041c5bf0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.033"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1afe306b-eb67-a2e0-dbbb-4a64a52b1ebf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.021"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20739b66-047b-72b8-3595-bb609dc878e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.034"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9642f300-c43a-8e0a-3224-5b9d9c48854d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.035"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d106def5-d3d5-8abb-6982-c424c169e1e5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.026"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    39.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "086d8d4f-5559-a16a-253b-23e65ec1d1c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.036"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    39.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "63c08857-1d0e-a453-4e82-a55afe010ad1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.022"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    39.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "91509eef-fb6c-3ea0-e8c4-6f351730185a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.037"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    39.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "de4c0f39-bea0-447b-399d-73207298d8f6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.038"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    39.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f31dfcf9-fd26-5ba3-13e1-e9347ff6b17e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Bottom Mid.027"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    -2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d96b1b43-4c7c-eac2-5cbe-513e6aade8ee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.039"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    -1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ff7c5809-2d95-3097-988e-2b027ff3e611",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Top Mid.023"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    2.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "198372f3-06d1-265c-6bf8-4256ad56a627",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.040"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f123eca5-483c-9730-0a50-1b1e4fddb9d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Mid.041"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    40.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ebf59ade-72bf-a474-abda-573738483963",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Right.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    41.0,
+                    -0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4774983-816f-2aa7-4b59-b64064afa4a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Center Right.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    41.0,
+                    -0.0,
+                    1.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3edc32c3-2ec7-e3a2-8e8a-18e1a5911b76",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.5474,
+                    -0.0,
+                    1.5
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1cbba1c6-6750-df35-4037-49887b23d28b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e71d11ae-5081-626b-9a32-aeb3842589d9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.0467,
+                    -0.0,
+                    1.5
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1cbba1c6-6750-df35-4037-49887b23d28b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "302942da-c014-6592-9ba6-5ff9f77e4118",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    11.2678,
+                    -0.0,
+                    1.4656
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "275552bf-3e5f-8e32-2874-43475d0d5eaa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.969,
+                    0.592,
+                    0.4188
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "403722fc-02bd-bae3-4375-1f860945527d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d2be82cf-0a42-7434-84cb-515bd1d980df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spike Group.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.0,
+                    -0.0,
+                    -1.6149
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "a1554442-b132-2d54-f852-7eff8beaadd6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "320afc64-dd59-7ee5-f496-1da6b363e735",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.0,
-                    2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "26c71f54-260a-85b3-d64c-f07f1e336526",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spike"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "320afc64-dd59-7ee5-f496-1da6b363e735"
+                    "name": "Spike Group.002"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "87e332b6-35e2-3e74-c436-da0e286790db"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "69b45e4b-c7dd-090c-9070-9a1652769737",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    6.0,
-                    -2.0,
-                    -1.5039
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Platform"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "69b45e4b-c7dd-090c-9070-9a1652769737"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "dd42f9b2-ec52-8ec4-76bc-17ca818520d6"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ecc6bd55-9fe1-0052-be64-17f97edec013",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    3.0,
-                    2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Star"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ecc6bd55-9fe1-0052-be64-17f97edec013"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1ef5bae1-d39b-626b-0fc8-ed280891110e"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "307ef253-12dc-e7ab-5075-1b01f7f85220",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    9.0,
-                    -1.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "307ef253-12dc-e7ab-5075-1b01f7f85220"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c39e1d4a-ff9c-cdf2-360a-46d3e55671fd"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "528f6164-783c-1769-78c2-c0158872584f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.0,
-                    -1.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "528f6164-783c-1769-78c2-c0158872584f"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "672118e8-115b-6e1c-5d71-622871b15020"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "20bd13fb-18f0-a0c2-8b21-9f40c679ac85",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
+                    17.0,
+                    -0.0,
+                    -1.6149
+                ],
+                "rotation": [
+                    -0.0,
                     0.0,
-                    10.0,
-                    0.0
+                    -179.9999
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "20bd13fb-18f0-a0c2-8b21-9f40c679ac85"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "60cd1e99-7963-892a-6574-5e9eace41c96"
+                "scene": "a1554442-b132-2d54-f852-7eff8beaadd6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d824996a-7c23-7d21-eb03-d1766a0d060f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    14.4476,
-                    -1.0,
-                    0.339
-                ]
-            },
+            "instanceGuid": "071934cb-973c-9f93-5a18-3b92896fa3b7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tree 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d824996a-7c23-7d21-eb03-d1766a0d060f"
+                    "name": "Coin.003"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    16.4232,
+                    -0.0,
+                    1.7368
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "73e5bc68-268f-1980-6e91-5243b75bd6d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Yellow Box.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5057,
+                    -0.0,
+                    1.5399
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b899ef9-d2aa-3a56-e955-7d616fcaac83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Yellow Box.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    23.0144,
+                    -0.0,
+                    1.5399
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e3a327c2-a5f4-2d6a-d2ab-c52856b3eb92",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.4832,
+                    -0.0,
+                    2.5743
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d3f693f-07d4-1576-6f8d-84dac244f9cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.0,
+                    0.592,
+                    0.4188
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "403722fc-02bd-bae3-4375-1f860945527d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0c8c05ce-f684-622b-055b-6ea9a60b0576",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    20.669,
+                    0.592,
+                    0.4188
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "403722fc-02bd-bae3-4375-1f860945527d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "31ab2f1a-9667-c8f3-62bf-b2bed4168a90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree 4.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.0568,
+                    1.0,
+                    2.4
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "b695435b-d16e-2fd1-c47e-ee6af9debdb3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    11.0,
-                    -2.0,
-                    1.7018
-                ]
-            },
+            "instanceGuid": "d872fd14-fb2c-cd1d-8062-c5c402f952f9",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Yellow Box"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143"
+                    "name": "Fence.004"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    33.0568,
+                    0.592,
+                    2.4094
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
+                "scene": "403722fc-02bd-bae3-4375-1f860945527d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fc2dc759-3772-0290-78dd-652b598256b6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.9998,
-                    -2.0,
-                    -2.0
-                ]
-            },
+            "instanceGuid": "0f41f535-969b-c3e9-56ab-3b3e4b806e63",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
+                    "name": "Fence.005"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    34.7259,
+                    0.592,
+                    2.4094
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+                "scene": "403722fc-02bd-bae3-4375-1f860945527d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4388ae19-af1e-26ee-4110-5994e4a7cfad",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    5.9998,
-                    -2.0,
-                    -2.0
-                ]
-            },
+            "instanceGuid": "5eb097f2-8c32-aac7-445b-582ded82c9fc",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
+                    "name": "Cloud 5.001"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fc1c5c2e-b637-1805-9362-1a118d9402c9",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    6.9998,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6768e625-b696-110a-38ba-bf4a2c6a9dae",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.0005,
-                    -2.0,
-                    -1.5039
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes Platform 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "69b45e4b-c7dd-090c-9070-9a1652769737"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "dd42f9b2-ec52-8ec4-76bc-17ca818520d6"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e220054f-973c-3712-5ff5-0973900f105f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
+                    31.5698,
                     8.0,
-                    -2.0,
-                    -1.0
+                    6.8163
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Left 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ee530ecb-abd2-1a80-9118-7eeca0d5b217"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ec59863d-4fd6-83b6-2e6a-6fb388c118bc"
+                "scene": "5c8a5ad8-0e0d-2da2-5700-ab614e3617e5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "edbbdb3c-4625-be3b-784f-f9f706d8420c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.9998,
-                    -2.0,
-                    -2.0
-                ]
-            },
+            "instanceGuid": "233ada14-dc47-5530-fdea-6a024b0ecab3",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
+                    "name": "Coin.002"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    36.5601,
+                    -0.0,
+                    3.1631
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "93477837-a6a9-35de-cf37-c9cc4bd09131",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.0,
-                    -2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "33cc5da1-2c1f-18fa-48d9-8d4336af52a2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Left 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "47971fd9-13bc-9e1b-0a74-951a7bdc9199"
+                    "name": "Coin.005"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    37.2637,
+                    -0.0,
+                    3.5737
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "19fc6c62-9ea9-35e2-da4c-58a21541faf7"
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "69161030-9b1b-5f4a-f721-0f0bbcfdfb5e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    9.0,
-                    -2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "33f8b0dc-3d99-5eb1-aaad-c0912b36e22e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
+                    "name": "Coin.006"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    38.0184,
+                    -0.0,
+                    3.1631
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
+                "scene": "061f56ce-dee1-0d5b-c008-91c1b59fd106"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "617d34f9-c97b-0619-b2e8-fb0cae2e9205",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    9.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
+            "instanceGuid": "eb5f228b-c02c-59f2-ec8d-0b0e65576c92",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
+                    "name": "Rock 4.001"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.4625,
+                    0.4346,
+                    2.4
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
+                "scene": "c511010f-ecf2-ee77-afeb-318b9c674b37"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d64f8ed4-151f-3c6b-a195-93eb7210162e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
+            "instanceGuid": "049dadb6-412f-5436-98af-1b0e3a5a7fc9",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
+                    "name": "Sign Right.001"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.2924,
+                    0.4438,
+                    2.4687
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
+                "scene": "4dd3273e-7f47-dd71-a368-c8c0075700fb"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9dada663-c0d6-1600-ed42-f1cd978feb4f",
+            "instanceGuid": "f5fece26-a522-7222-c753-1c259a55cf63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass 1.001"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    6.4324,
-                    -2.0,
-                    -1.4176
+                    39.7189,
+                    0.3967,
+                    2.4754
                 ],
                 "scale": [
-                    2.8777,
-                    1.0,
-                    1.0
+                    1.5737
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "HazardSensor"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9dada663-c0d6-1600-ed42-f1cd978feb4f"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e97e2232-f5fe-47cc-99b5-36ad43501c8c"
+                "scene": "9072ac05-5729-6fa4-5e27-acb5f10ed301"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7bad4c81-7ecf-03b5-54fd-8bdcd446198c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.0,
-                    -2.0,
-                    0.0
-                ]
-            },
+            "instanceGuid": "9f5ff2cd-8f4b-70b4-1d13-0c35586b95c3",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
+                    "name": "Rock 1.001"
                 }
             ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "80af7ecb-48db-9730-a4a5-7daa96d7dee6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    11.0,
-                    -2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1a6b2048-d1ba-8c88-b85c-dca926164733",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    12.0,
-                    -2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "104b2e97-c2ae-855a-ce50-fdcd56d5b5e5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c84421f9-9557-bd10-3013-611014ec8a20",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    11.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a432aab7-e892-d659-be47-d330bf1f0000",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    12.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3ac9ef95-d1a4-ff11-57e8-d61a0fc95172",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    9.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e52c54a0-b10d-3180-a570-8977074ef0a2",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fa8f6b81-6cfb-f202-2ab4-92d93b2e209f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    11.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 9"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "de0fd675-2446-3ce8-9c68-353d56d03fb1",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    11.5177,
-                    -2.0,
-                    1.7018
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Yellow Box 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "04a36d18-562b-e338-2d6b-f4817dcdf560",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    12.0355,
-                    -2.0,
-                    1.7018
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Yellow Box 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "063d0b92-0754-6457-e755-306a0ed96cef",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    12.5533,
-                    -2.0,
-                    1.7018
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Yellow Box 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1aecc2c4-0c47-4bef-9593-9656b7a7c143"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b61efd5b-51b7-9274-0e02-3df8e24d7f96"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "52ec7699-260c-dc43-91e1-f8c95dcaf913",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.0,
-                    -2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ca10d999-3870-d401-96c4-d15b6a368b96",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    14.0,
-                    -2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Mid 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5da5f40-718b-6f1c-b056-57f2462910fe"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2118f7f-7f72-a4e8-cc6f-098f25fb994c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b667e91e-3458-dbdb-e70e-a91c89014d39",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c7a6a2f0-10e6-439f-ab3b-1793f91655d9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    14.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Mid 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3edcd9-48cb-521a-344e-2180bdb74fd0"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b88cb70-eca3-0e43-9196-e11f8a36cb0d"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "86c997c3-1be0-9d54-5117-312dbebf3aff",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    12.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 10"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6bd4ff02-98c8-d851-bac7-f000127087fd",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    13.9996,
-                    -2.0,
-                    -2.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Mid 11"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d9493c92-664a-de02-670c-7258da1ecb8a"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "54e1315b-d993-7b26-4adb-b42aad373327"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "696ec7aa-1fad-1a1d-fd51-1bb9550e4baf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.0,
-                    -2.0,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Top Right 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8f9301bd-98b8-ea9c-f60a-1493c49824b6"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "62db1756-d7f4-f0fe-b648-00ed2394ccff"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "2749f8bf-0220-0ed2-5c8b-743a77d9bb10",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.0,
-                    -2.0,
-                    -1.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Center Right 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c6533747-6833-1194-a41b-4432aa2cd6f5"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "47b63b73-be75-71b9-db30-4a50869a7bb2"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f4159ebd-3a68-d7b1-6878-57204b9aa392",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.0,
-                    -2.0,
-                    -2.0
+                    40.2289,
+                    0.3735,
+                    2.4671
                 ],
-                "rotation": [
-                    0.0,
-                    -0.0,
-                    -179.9999
+                "scale": [
+                    0.5436
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ground Bottom Left 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4d5cb4b8-6d39-92f8-d650-5c13cf1c23eb"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0d07d868-c5e4-f4ef-9355-55271640926b"
+                "scene": "aafeb527-b3d3-3089-0786-b02d79b6465f"
             }
         }
     ],
