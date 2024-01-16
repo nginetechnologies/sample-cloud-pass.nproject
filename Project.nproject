@@ -7,7 +7,8 @@
     "plugins": [
         "EAF8C037-4ADF-4A97-99FD-915341D1854C",
         "B7921721-4029-47CE-873C-5D356D604AA9",
-        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+        "0F7C1053-884C-4795-A082-2AECF6BA8032",
+        "5af4e650-78ac-4e2b-b483-34dd2cd38c06"
     ],
     "asset_directory": "Assets",
     "binary_directory": "bin",

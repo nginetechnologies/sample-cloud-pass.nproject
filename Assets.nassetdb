@@ -6,7 +6,10 @@
     "34d1fa00-221e-4812-a68d-6c4a3b00f54a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Cloud Pass.scene.nasset"
+        "path": "Assets/Cloud Pass.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.7977137565612795,-6.209621906280518,5.577915668487549],\"rotation\":[-32.823036193847659,-3.3124095466519068e-7,-10.998342514038086]}"
+        }
     },
     "f8e7248f-6591-4868-b076-e32c15826054": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -77,6 +80,7 @@
         "540ee8ff-4589-4f75-9753-91a3203ae77a",
         "54e1315b-d993-7b26-4adb-b42aad373327",
         "59614de4-1861-dad2-4691-2e1df6d3afce",
+        "5af4e650-78ac-4e2b-b483-34dd2cd38c06",
         "5bc7cb80-79d7-a270-0974-e8fccfbfda86",
         "5c8a5ad8-0e0d-2da2-5700-ab614e3617e5",
         "607dda60-2bea-7db3-d56e-4b916239a060",
