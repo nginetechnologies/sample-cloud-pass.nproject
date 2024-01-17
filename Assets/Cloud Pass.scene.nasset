@@ -37,30 +37,30 @@
             "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
             "data_components": [
                 {
-                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
                 },
                 {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
                 },
                 {
-                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
                 },
                 {
-                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
                 },
                 {
                     "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
                     "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
                 },
                 {
-                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
-                },
-                {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 }
             ]
         },
@@ -69,9 +69,9 @@
             "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    1.0,
-                    0.0,
-                    1.1498
+                    0.8957,
+                    0.1906,
+                    1.1497
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -821,7 +821,7 @@
             "instanceGuid": "83f4f427-e976-8840-a08c-fdaa08770e07",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    9.7967,
+                    9.7966,
                     -0.0,
                     -0.1216
                 ]
@@ -1368,7 +1368,7 @@
                 "position": [
                     16.0,
                     -0.0,
-                    -1.6147
+                    -1.6146
                 ]
             },
             "data_components": [
@@ -4337,7 +4337,7 @@
                 "position": [
                     16.0,
                     -0.0,
-                    -1.6147
+                    -1.6146
                 ]
             },
             "data_components": [
@@ -4361,12 +4361,12 @@
                 "position": [
                     17.0,
                     -0.0,
-                    -1.6147
+                    -1.6146
                 ],
                 "rotation": [
                     0.0,
                     0.0,
-                    -179.9997
+                    -179.9996
                 ]
             },
             "data_components": [
@@ -4676,7 +4676,7 @@
             "instanceGuid": "33f8b0dc-3d99-5eb1-aaad-c0912b36e22e",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    38.0182,
+                    38.0181,
                     -0.0,
                     3.1631
                 ]
@@ -4804,7 +4804,7 @@
                 "position": [
                     2.6877,
                     -0.3264,
-                    0.9345
+                    0.9344
                 ]
             },
             "data_components": [
@@ -4851,7 +4851,8 @@
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "metadata": {
-        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.7977137565612795,-6.209621906280518,5.577915668487549],\"rotation\":[-32.823036193847659,-3.3124095466519068e-7,-10.998342514038086]}"
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.7977137565612795,-6.209621906280518,5.577915668487549],\"rotation\":[-32.82303237915039,-3.023250769729202e-7,-10.99834156036377]}"
     },
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "34d1fa00-221e-4812-a68d-6c4a3b00f54a"
